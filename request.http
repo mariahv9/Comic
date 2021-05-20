@@ -1,0 +1,5 @@
+### Actual
+GET https://xkcd.com/info.0.json
+
+### Comic 614
+GET https://xkcd.com/1428/info.0.json
