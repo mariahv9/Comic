@@ -7,7 +7,7 @@ Proyecto el cual muestra título e imagen de un comic aleatorio, adicional el us
 Para clonar el proyecto usar el siguiente comando:
 
 ```
-https://github.com/mariahv9/Comic.git
+git clone https://github.com/mariahv9/Comic.git
 ```
 
 ### Ejecucion App
